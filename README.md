@@ -2,7 +2,10 @@
 The manual process of copying and pasting data across multiple sections for Abacus templates was time-consuming and error-prone. Blank cells frequently led to incomplete data transfers, compromising data accuracy and consistency.
 
 # Steps Taken
-To address these issues, I developed a Python-based automation tool to eliminate manual interventions in the data transfer process. The application is packaged as an executable (.exe) file, making it easily accessible for the entire team. Built Using with ChatGPT's assistance, I streamlined the process of capturing Baseline and Current Year Data and automatically transferring it to Abacus templates. This approach minimized manual handling, reduced blank cells, and enhanced accuracy across multiple sections.
+To address these issues, I developed a Python-based automation tool to eliminate manual interventions in the data transfer process. The application is packaged as an executable (.exe) file, making it easily accessible for the entire team.I streamlined the process of capturing Baseline and Current Year Data and automatically transferring it to Abacus templates. This approach minimized manual handling, reduced blank cells, and enhanced accuracy across multiple sections.
+
+# Impact
+Generating Abacus templates for five media channels for 1 market manually takes about 19 minutes, while the application completes the same task in just 6 minutes  Considering 60 markets in scope, the efficiency improvement becomes even more significant: the application can finish the job in 6 hours, compared to 19 hours manually. This resulted in a 68% reduction in time.
 
 
 <img width="547" height="355" alt="Screenshot 2024-10-14 164243" src="https://github.com/user-attachments/assets/fd2fb5a3-7e9b-4a06-831a-160569715682" />
